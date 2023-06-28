@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:id = "@+id/parentOfButton">
+
+
+    <GridLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:columnCount="5"
+        android:rowCount="5">
+
+        <Button
+            android:id="@+id/buton0"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+           />
+
+        <Button
+            android:id="@+id/buton1"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault" />
+
+        <Button
+            android:id="@+id/buton2"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton3"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton4"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton5"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton6"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton7"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton8"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton9"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton10"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton11"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton12"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton13"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton14"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton15"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton16"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton17"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton18"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton19"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton20"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton21"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+           />
+
+        <Button
+            android:id="@+id/buton22"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton23"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+
+        <Button
+            android:id="@+id/buton24"
+            style="@style/MyButtonProperties"
+            android:text="@string/ByDefault"
+            />
+    </GridLayout>
+
+
+
+
+
+
+</RelativeLayout>
